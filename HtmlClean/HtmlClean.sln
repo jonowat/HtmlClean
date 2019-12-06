@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlClean", "HtmlClean.csproj", "{A723FA29-4C52-4702-811C-B11B325ED73B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlCleanTests", "..\HtmlCleanTests\HtmlCleanTests.csproj", "{0B097B6D-3E7A-4596-A229-FBE38DF4BD08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORM", "..\ORM\ORM.csproj", "{8386D309-6823-49CD-9FAE-A8334934E006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A723FA29-4C52-4702-811C-B11B325ED73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A723FA29-4C52-4702-811C-B11B325ED73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A723FA29-4C52-4702-811C-B11B325ED73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A723FA29-4C52-4702-811C-B11B325ED73B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B097B6D-3E7A-4596-A229-FBE38DF4BD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B097B6D-3E7A-4596-A229-FBE38DF4BD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B097B6D-3E7A-4596-A229-FBE38DF4BD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B097B6D-3E7A-4596-A229-FBE38DF4BD08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8386D309-6823-49CD-9FAE-A8334934E006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8386D309-6823-49CD-9FAE-A8334934E006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8386D309-6823-49CD-9FAE-A8334934E006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8386D309-6823-49CD-9FAE-A8334934E006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E84BD7D-B63B-413C-9E66-05E109DFC6DD}
+	EndGlobalSection
+EndGlobal
